@@ -1,0 +1,16 @@
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPListener\UDPListener\bin\Debug\net5.0\UDPListener.exe
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPListener\UDPListener\bin\Debug\net5.0\UDPListener.deps.json
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPListener\UDPListener\bin\Debug\net5.0\UDPListener.runtimeconfig.json
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPListener\UDPListener\bin\Debug\net5.0\UDPListener.runtimeconfig.dev.json
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPListener\UDPListener\bin\Debug\net5.0\UDPListener.dll
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPListener\UDPListener\bin\Debug\net5.0\UDPListener.pdb
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPListener\UDPListener\obj\Debug\net5.0\UDPListener.csproj.AssemblyReference.cache
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPListener\UDPListener\obj\Debug\net5.0\UDPListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPListener\UDPListener\obj\Debug\net5.0\UDPListener.AssemblyInfoInputs.cache
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPListener\UDPListener\obj\Debug\net5.0\UDPListener.AssemblyInfo.cs
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPListener\UDPListener\obj\Debug\net5.0\UDPListener.csproj.CoreCompileInputs.cache
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPListener\UDPListener\obj\Debug\net5.0\UDPListener.dll
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPListener\UDPListener\obj\Debug\net5.0\refint\UDPListener.dll
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPListener\UDPListener\obj\Debug\net5.0\UDPListener.pdb
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPListener\UDPListener\obj\Debug\net5.0\UDPListener.genruntimeconfig.cache
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPListener\UDPListener\obj\Debug\net5.0\ref\UDPListener.dll

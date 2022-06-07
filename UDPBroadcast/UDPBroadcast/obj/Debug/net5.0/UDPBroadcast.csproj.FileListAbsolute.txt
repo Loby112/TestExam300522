@@ -1,0 +1,16 @@
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPBroadcast\UDPBroadcast\bin\Debug\net5.0\UDPBroadcast.exe
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPBroadcast\UDPBroadcast\bin\Debug\net5.0\UDPBroadcast.deps.json
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPBroadcast\UDPBroadcast\bin\Debug\net5.0\UDPBroadcast.runtimeconfig.json
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPBroadcast\UDPBroadcast\bin\Debug\net5.0\UDPBroadcast.runtimeconfig.dev.json
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPBroadcast\UDPBroadcast\bin\Debug\net5.0\UDPBroadcast.dll
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPBroadcast\UDPBroadcast\bin\Debug\net5.0\UDPBroadcast.pdb
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPBroadcast\UDPBroadcast\obj\Debug\net5.0\UDPBroadcast.csproj.AssemblyReference.cache
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPBroadcast\UDPBroadcast\obj\Debug\net5.0\UDPBroadcast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPBroadcast\UDPBroadcast\obj\Debug\net5.0\UDPBroadcast.AssemblyInfoInputs.cache
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPBroadcast\UDPBroadcast\obj\Debug\net5.0\UDPBroadcast.AssemblyInfo.cs
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPBroadcast\UDPBroadcast\obj\Debug\net5.0\UDPBroadcast.csproj.CoreCompileInputs.cache
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPBroadcast\UDPBroadcast\obj\Debug\net5.0\UDPBroadcast.dll
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPBroadcast\UDPBroadcast\obj\Debug\net5.0\refint\UDPBroadcast.dll
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPBroadcast\UDPBroadcast\obj\Debug\net5.0\UDPBroadcast.pdb
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPBroadcast\UDPBroadcast\obj\Debug\net5.0\UDPBroadcast.genruntimeconfig.cache
+C:\Users\Lobyl\Documents\3. Semester\TestExam300522\UDPBroadcast\UDPBroadcast\obj\Debug\net5.0\ref\UDPBroadcast.dll
